@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Automation**
 
-- 📫 How to reach me **mayank.bhardwajwork2703@gmail.com**
+- 📫 How to reach me **mayankbhardwajoff2703@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mayank-bhardwaj-663590208/](https://www.linkedin.com/in/mayank-bhardwaj-663590208/)
 
