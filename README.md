@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mayankbhardwajoff2703@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mayank-bhardwaj-663590208/](https://www.linkedin.com/in/mayank-bhardwaj-663590208/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mayank-bhardwaj-663590208/](https://www.linkedin.com/in/mayankbhardwaj2703/)
 
 - ⚡ Fun fact **I think I am Funny !**
 
