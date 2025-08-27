@@ -29,23 +29,13 @@
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,react,nodejs,express,tailwind,html,css,docker,git,github,linux,figma,mysql,mongodb,aws" />
 </p>
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MayankBhardwaj&theme=radical&hide_border=true" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MayankBhardwaj&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankBhardwaj&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
 
 ---
 
 ## 🔥 Fun Animations
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Founder+%26+CEO+of+Codlyn+Softwares;We+Build+Software%2C+Apps%2C+AI;Private+Bidder+%F0%9F%8F%A2;Coffee+%E2%98%95+%2B+Code+%3D+Magic+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+" alt="Typing Animation" />
 </p>
 
 ---
